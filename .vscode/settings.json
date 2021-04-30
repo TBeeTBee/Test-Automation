@@ -1,0 +1,12 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\byte-buddy-1.8.15.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\client-combined-3.141.59.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\client-combined-3.141.59-sources.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\commons-exec-1.3.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\guava-25.0-jre.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\okhttp-3.11.0.jar",
+        "c:\\Users\\tbeckford.FSLADS\\Documents\\Automation\\libs\\okio-1.14.0.jar"
+    ]
+}
